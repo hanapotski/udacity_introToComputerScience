@@ -1,0 +1,17 @@
+Intro
+
+Building your own search engine
+google
+duckduckgo
+davedavefind
+
+computer science
+- how to solve problems by building them into smaller pieces and then precisely and mechanically describing a sequence of steps that you can use to solve each piece
+- steps can be executed by computer
+- build a search engine
+
+build a search engine
+> find data
+> build an index
+> rank pages
+
