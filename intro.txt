@@ -11,7 +11,9 @@ computer science
 - build a search engine
 
 build a search engine
-> find data
-> build an index
-> rank pages
+> find data - crawl web pages
+> build an index - to be able to respond quickly to search queries
+> rank pages - ranking pages so that we get the best result for a given query
+
+
 
