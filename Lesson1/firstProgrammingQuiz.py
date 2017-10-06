@@ -10,5 +10,5 @@
 # and click "Submit" to submit your answer.
 
 print 7 * 7 * 24 * 60
-
+#70560minutes
 #Correct! Fun fact: A modern computer can execute 12 quadrillion instructions in a seven week period
