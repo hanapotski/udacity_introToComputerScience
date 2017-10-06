@@ -1,0 +1,7 @@
+Grammar
+- syntax error
+
+Backus-Naur form by John Backus, 1924-2007
+- lead designer of Fortran programming language (1950s), IBM
+- one of the first widely used programming languages
+- Fortran > ALGOL
