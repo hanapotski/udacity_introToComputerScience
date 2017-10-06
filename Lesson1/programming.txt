@@ -18,3 +18,7 @@ interpreter reads our programs and executes them by following the rules of the P
 
 Monty Python
 High-level language
+
+
+environment, where you can edit code
+print 3
