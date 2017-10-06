@@ -1,0 +1,37 @@
+Backus-Naur Form
+replacement grammar
+
+
+The notation we used to describe the grammar is known as Bakus-Naur Form. It was introduced
+in the 1950s by John Backus, the lead designer of the Fortran programming language at IBM.
+
+The purpose of Bakus-Naur Form is to describe a programming language in a simple and concise
+manner. The structure of this form is:
+
+<Non-Terminal>  replacement
+- something we're not finished with
+
+The replacement can be any sequence of zero or more non-terminals or terminals.
+
+Terminals never appear on the left side of a rule. Once you get to a terminal there is nothing else
+you can replace it with. Here is an example showing to derive a sentence by following the
+replacement rules:
+
+Sentence  Subject Verb Object
+          Noun Verb Object
+          I Verb Object
+          I Like Object
+          I Like Noun
+          I Like Python
+         
+The important thing about a replacement grammar is that we can describe an infinitely large
+language with a small set of precise rules.
+
+
+Derivation
+starting from some non-terminal, follow the rules to derive a sequence of terminals. We're done when we have only terminals left. We can derive a sentence in the grammar
+
+
+
+
+
