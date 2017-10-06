@@ -1,0 +1,23 @@
+Python Grammar for Arithmetic Expressions
+
+An expression is something that has a value. Here are some examples of expressions in Python:
+
+ 3
+ 1 + 1
+ 7 * 7 * 24 * 60 
+ 
+start with non-terminal expression
+combination of 3 expressions with an operator
+
+
+recursive definition
+not completely circular
+
+2 rules
+we need one where we can keep going, using the same thing on the right side as the left side
+we need one where we can stop
+
+recursive grammar rules
+we only need a few simple rules to describe a big language
+constructs
+can be broken down into formal/placements rules
