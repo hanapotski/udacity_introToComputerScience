@@ -1,0 +1,14 @@
+Admiral Grace Hopper
+1906-1992
+one of the pioneers in computing
+wrote one of the first languages
+COBOL
+
+compiler
+a compiler is a program that produces other programs, like Python
+
+compiler vs interpreter- Python
+compiler does all the work at once and then runs the new program
+interpreter like Python you're doing this work at the same time
+
+
