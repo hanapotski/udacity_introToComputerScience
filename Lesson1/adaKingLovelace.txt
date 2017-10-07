@@ -1,0 +1,15 @@
+August Ada King (Video: Ada)
+
+August Ada King, Countess of Lovelace, 1815-1852, was arguably the world's first computer
+programmer. Grace Hopper wasn't the first person to think about using computers to do things
+other than arithmetic, but Ada probably was. In her 1843 notes on programming the Analytical
+Engine, she writes:
+
+It might act upon other things besides number, were objects found whose mutual
+fundamental relations could be expressed by those of the abstract science of operations, and
+which should be also susceptible of adaptations to the action of the operating notation and
+mechanism of the engine…
+
+The It King is referring to is the Analytical Engine, a mechanical programmable computer that
+Charles Babbage designed. Although he did not succeed in building it in the 1840s, he did have a
+design for it, which Ada was thinking about programming to compose music. 
