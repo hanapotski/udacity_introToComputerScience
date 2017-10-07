@@ -5,7 +5,7 @@ t = 'bodacious'
 # without using any quote characters in
 # your code.
 
-print s[0] + t[2:]
+print s[0] + t[2:]   #subsequence operator
 
 
 
