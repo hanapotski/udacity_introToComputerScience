@@ -17,11 +17,11 @@ print word[3]
 u
 print word[4:6]
 me
-print word[4:]
+print word[4:] - from 4 to end
 me
-print word[:2]
+print word[:2] - from beginning to stop-1
 as
-print word[:]
+print word[:] - start from beginning to end, no sense but consistent with syntax
 assume
 
 - includes all characters in str starting at position s, ending with position stop-1, stop not included
