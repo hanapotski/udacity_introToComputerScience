@@ -27,6 +27,7 @@ print text.find('zip', first + 1)
 # IMPORTANT BEFORE SUBMITTING: 
 # You should only have one print command in your function
 
+print text.find('zip', text.find('zip') + 1)
 
 
 
