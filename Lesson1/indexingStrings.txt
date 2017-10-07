@@ -1,0 +1,13 @@
+Indexing Strings
+When you want to select sub-sequences from a string, it is called indexing. Use the square brackets
+[] to specify which part of the string you want to select.
+
+string[0] - first letter
+string[-1] - last letter
+
+When you try to index a character in a position where there is none, Python produces an error
+indicating that the index is out of range:
+name = 'Dave'
+ print name[4]
+IndexError: string index out of range
+
