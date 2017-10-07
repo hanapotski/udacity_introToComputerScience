@@ -1,0 +1,25 @@
+Using find with Numbers
+
+In addition to passing in a target string to find, we can also pass in a number:
+
+<search string>.find(<target string>, <number>)
+
+The number input is the position in the search string where find will start looking for the target
+string. So, the output is a number giving the position of the first occurrence of the target string in
+the search string at or after the number input position. If there is no occurrence at or after that
+position, the output is -1.
+
+For example:
+ danton = "De l'audace, encore de l'audace, toujours de l'audace."
+print danton.find('audace')
+5
+print danton.find('audace', 0)
+5
+print danton.find('audace', 5)
+5
+print danton.find('audace', 6)
+25
+print danton.find('audace', 25)
+25
+print danton.find('audace', 48)
+47
