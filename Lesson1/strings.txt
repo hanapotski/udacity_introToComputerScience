@@ -1,0 +1,10 @@
+String
+- sequence of characters surrounded by quotes
+- 'I am a string'
+- single or double quotes
+
+print 'Hello'
+print "Hello"
+
+print Hello
+NameError, name 'Hello' is not defined
