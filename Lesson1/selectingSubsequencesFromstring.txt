@@ -1,0 +1,27 @@
+Selecting Sub-Sequences from String
+
+You can select a sub-sequence of a string by designating a starting position and an end position.
+Python reads the characters positions starting at 0, so that if we consider the string 'udacity'
+that has 7 characters, there are 6 positions with 'u' being in the 0 position. 
+
+<string>[<expression>]  a one-character string
+
+<string>[<start expression>:<stop expression>]  a string that is a sub-sequence of the
+characters in the string, from the start position up to the character before the stop position. If the start expression is missing, the sub-sequence starts from the beginning of the string; if the stop expression is missing, the sub-sequence
+goes to the end of the string.
+
+Examples:
+
+word = 'assume'
+print word[3]
+u
+print word[4:6]
+me
+print word[4:]
+me
+print word[:2]
+as
+print word[:]
+assume
+
+- includes all characters in str starting at position s, ending with position stop-1, stop not included
