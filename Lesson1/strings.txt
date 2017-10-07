@@ -8,3 +8,6 @@ print "Hello"
 
 print Hello
 NameError, name 'Hello' is not defined
+
+convention
+no uppercase in variable names
