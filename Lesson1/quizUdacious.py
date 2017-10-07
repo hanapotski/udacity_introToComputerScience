@@ -7,6 +7,10 @@ t = 'bodacious'
 
 print s[0] + t[2:]   #subsequence operator
 
+print s[:-2]
+print t[-3:]
+print s[:-2] + t[-3:]
+
 
 
 
