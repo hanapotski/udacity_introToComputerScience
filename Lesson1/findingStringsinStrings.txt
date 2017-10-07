@@ -1,0 +1,28 @@
+Finding Strings in Strings
+
+The find method is a built in operation, or method, provided by Python, that operates on strings.
+
+The output of find is the position of the string where the specified sub-string is found.
+- first occurrence
+- number that gives first position in search string where the target string appears
+
+<search string>.find(<target string>)
+
+If the target string is not found anywhere in the search string, then the output will be -1
+
+Here are some examples (try them yourself in the interpreter):
+pythagoras = 'There is geometry in the humming of the strings, there is
+music in the spacing of the spheres. '
+print pythagoras.find('string')
+40
+print pythagoras[40:]
+strings, there is music in the spacing of the spheres.
+print pythagoras.find('T')
+0
+print pythagoras.find('sphere')
+86
+print pythagoras[86:]
+spheres
+print pythagoras.find('algebra')
+-1
+
