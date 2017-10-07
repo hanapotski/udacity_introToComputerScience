@@ -2,6 +2,7 @@ String
 - sequence of characters surrounded by quotes
 - 'I am a string'
 - single or double quotes
+- The only requirement is that the string must start and end with the same kind of quote.
 
 print 'Hello'
 print "Hello"
